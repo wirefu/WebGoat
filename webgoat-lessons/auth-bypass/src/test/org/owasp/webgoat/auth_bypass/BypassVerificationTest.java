@@ -23,6 +23,8 @@
  * <p>
  */
 
+ #test
+
 package org.owasp.webgoat.auth_bypass;
 
 import org.hamcrest.CoreMatchers;
